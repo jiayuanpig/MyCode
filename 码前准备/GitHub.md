@@ -9,25 +9,45 @@ GitHub是世界上最大的软件远程仓库，是一个面向开源和私有�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## GitHub页面
 
-GitHub搜索技巧：
+### 相关名词
+
+**Repository**：仓库，使用仓库存储不同代码
+
+**Star**：收藏，记录有用的仓库
+
+**Fork**：复制克隆项目，在别人项目的基础上进行改进，不会影响本人项目代码
+
+**Pull Request**：发送请求，在Fork的基础上修改代码后提交给原作者
+
+**Watch**：关注，关注项目更新
+
+**Issue**：事务卡片，发现代码BUG，但还未改进
+
+
+
+### 仓库管理
+
+一个git库对应一个开源项目，通过git来管理库
+
+#### 创建
+
+Repository name：仓库名称
+
+Description：描述
+
+Initialize the repository with a README：初始化一个介绍文档**README.md**文件
+
+#### 设置
+
+修改仓库状态：公开、私有
+
+修改仓库归档：已归档、只读
+
+删除仓库
+
+#### GitHub搜索技巧
 
 项目名称name
 
@@ -47,13 +67,65 @@ README
 
 
 
+## Git
+
+### Git配置
+
+Git GUI：图形化页面
+
+Git Bash：命令行页面
 
 
 
+环境配置
+
+1、输入登录账号
+
+```
+# 配置用户名
+git config --global user.name "username"    //（ "username"是自己的账户名，）
+# 配置邮箱
+git config --global user.email "username@email.com"     //("username@email.com"注册账号时用的邮箱)
+```
+
+2、生成ssh（一般在 C:\Users\你的用户名.ssh，文件id_rsa.pub添加到Gihub管理平台）
+
+```
+ssh-keygen -t rsa
+```
+
+3、测试
+
+```
+ssh -T git@github.com
+```
+
+4、初始化本地仓库
+
+```
+在当前文件夹下，生成.git隐藏文件
+git init
+```
 
 
 
-## 常用的Git命令
+### Git工作区域
+
+Git仓库：存放代码
+
+暂存区：暂存已经提交的代码，最后统一提交到git仓库中
+
+工作区：添加、编辑、修改文件
+
+
+
+提交文件流程：
+
+git status（工作区） --> git add 文件名（暂存区） -->git commit -m ‘提交描述’（Git仓库）
+
+
+
+### 常用的Git命令
 
 克隆代码：git clone http地址/git地址
 
