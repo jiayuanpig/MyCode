@@ -1,6 +1,5 @@
 package study.array;
 
-
 public class Example1 {
     public static void main(String[] args) {
         int[] arr = {1, 3, 5, 0, 2, 0, 5};

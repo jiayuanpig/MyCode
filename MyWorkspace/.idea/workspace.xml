@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ce052b-14b6-4dd6-83db-5ab8faa27255" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +49,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Example4">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.array.Example1" />
       <module name="MyWorkspace" />
@@ -47,8 +65,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.array.Example2" />
+      <module name="MyWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.array.Example3" />
+      <module name="MyWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.array.Example4" />
+      <module name="MyWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.array.Example5" />
+      <module name="MyWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example1" />
       </list>
     </recent_temporary>
@@ -64,44 +138,56 @@
       <option name="presentableId" value="Default" />
       <updated>1595324607036</updated>
       <workItem from="1595324608889" duration="4247000" />
+      <workItem from="1595379523555" duration="10632000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="651" y="274" key="#Notifications" timestamp="1595333531948">
+    <state x="651" y="274" key="#Notifications" timestamp="1595379665631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1595333531948" />
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1595379665631" />
     <state x="249" y="0" key="#Project_Structure" timestamp="1595324633105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595324633105" />
-    <state width="1493" height="120" key="GridCell.Tab.0.bottom" timestamp="1595336797534">
+    <state width="1493" height="120" key="GridCell.Tab.0.bottom" timestamp="1595406602192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="120" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595336797534" />
-    <state width="1493" height="120" key="GridCell.Tab.0.center" timestamp="1595336797534">
+    <state width="1493" height="120" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595406602192" />
+    <state width="1493" height="120" key="GridCell.Tab.0.center" timestamp="1595406602192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="120" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595336797534" />
-    <state width="1493" height="120" key="GridCell.Tab.0.left" timestamp="1595336797534">
+    <state width="1493" height="120" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595406602192" />
+    <state width="1493" height="120" key="GridCell.Tab.0.left" timestamp="1595406602192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="120" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595336797534" />
-    <state width="1493" height="120" key="GridCell.Tab.0.right" timestamp="1595336797534">
+    <state width="1493" height="120" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595406602192" />
+    <state width="1493" height="120" key="GridCell.Tab.0.right" timestamp="1595406602192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="120" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595336797534" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1595324828030">
+    <state width="1493" height="120" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595406602192" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1595379743797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595324828030" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595334197807">
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595379743797" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595388540241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595334197807" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595388540241" />
   </component>
 </project>
