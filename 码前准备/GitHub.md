@@ -145,3 +145,41 @@ git status（工作区） --> git add 文件名（暂存区） -->git commit -m 
 
 
 
+## Git站点
+
+### 个人站点
+
+URL：https://用户名.github.io
+
+
+
+搭建步骤：
+
+1、创建个人站点：创建仓库，仓库名必须是【用户名.github.io】
+
+2、在仓库下新建index.html文件
+
+注意：
+
+- GitHub pages只支持静态网页
+- 仓库里面只能是.html文件
+
+
+
+### 项目站点
+
+URL：https://用户名.github.io/仓库名
+
+
+
+搭建步骤：
+
+1、进入项目主页，点击【settings】
+
+2、在settings页面点击【Launch automatic page generator】
+
+3、设置新建站点信息
+
+4、选择主题
+
+5、生成网页
