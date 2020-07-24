@@ -24,6 +24,8 @@
 - 插入图片：直接拖动到指定位置即可或者ctrl+shift+i
 - 插入链接：ctrl + k
 
+- 纵向选择模式：shift + alt + a
+
 
 
 # MarkDown语法
