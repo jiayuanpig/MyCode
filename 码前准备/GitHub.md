@@ -49,19 +49,17 @@ Initialize the repository with a README：初始化一个介绍文档**README.md
 
 #### GitHub搜索技巧
 
-项目名称name
+- 项目名称name：in:name project-name
 
-项目描述description
+- 项目描述description：in:description description
 
-README
-
-
-
-
-
-
-
-
+- README：in:readme readme-file
+- stars设置范围：stars:>1000
+- forks设置范围：forks:>100
+- 项目语言筛选：language:java
+- 项目作者：user:username
+- 项目大小：size:>500
+- 组合查找：in:name project-name user:username
 
 
 
