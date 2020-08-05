@@ -1,4 +1,4 @@
-# MyCode
+# Algorithm
 Algorithm training：Write a few arithmetic questions every day
 
 算法训练：每天写一些算法题
